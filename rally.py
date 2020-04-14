@@ -1,11 +1,10 @@
-#заготовка для игры
+#Ралли
 import pygame
 import random
-import time
+
 
 BLUE=(0,128,255)
 RED=(255,0,0)
-
 WHITE=(255,255,255)
 BLACK=(0,0,0)
 
